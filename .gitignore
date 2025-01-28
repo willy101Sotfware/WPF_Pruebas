@@ -1,0 +1,24 @@
+# Archivos de Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.log
+*.vspscc
+*.vssscc
+
+# Archivos de compilación
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Paquetes NuGet
+packages/
+*.nupkg
