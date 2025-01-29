@@ -13,6 +13,8 @@ namespace WPF_Pruebas
         public Welcome()
         {
             InitializeComponent();
+          
+
         }
 
         private void Continuar_Touch(object sender, MouseButtonEventArgs e)
